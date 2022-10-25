@@ -300,6 +300,7 @@
 -r:"Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CameraScript.cs"
+"Assets/Scripts/Enemy.cs"
 "Assets/Scripts/PlayerScripts.cs"
 -langversion:9.0
 
